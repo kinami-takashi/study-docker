@@ -19,7 +19,7 @@ docker（主に機械学習に関する）についての学習用のリポジ�
 勉強会用です。動画が埋め込んであるのでパワーポイント版を見ることをおすすめします。    
 
 - [機械学習のためのdocker_簡易説明書](https://github.com/cu-milab/lec-docker/blob/main/document/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92_docker_%E7%B0%A1%E6%98%93%E8%AA%AC%E6%98%8E%E6%9B%B8.pdf)    
-最低限の説明のみ書いてあります。[機械学習のためのdocker](https://github.com/cu-milab/lec-docker/blob/main/document/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AEdocker.pdf)で一通りdockerについて学習した後は、こちらだけ見れば（本研究室内で機械学習についての研究を行う分には）大丈夫だと思います。
+最低限の説明のみ書いてあります。[機械学習のためのdocker](https://github.com/cu-milab/lec-docker/blob/main/document/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AEdocker.pdf)で一通りdockerについて学習した後は、こちらだけ見れば（機械学習については）大丈夫だと思います。
 
 - [dockerhubとgithubの連携](https://github.com/cu-milab/lec-docker/blob/main/document/dockerhub%E3%81%A8github%E3%81%AE%E9%80%A3%E6%90%BA.pdf)    
 dockerhubとgithubを連携させることで，dockerで構築した環境を管理しやすくなります．
